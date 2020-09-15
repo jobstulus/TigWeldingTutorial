@@ -4,7 +4,7 @@
 
 ## Stahl (DC):  
 
-Werkstückdicke (mm)` ` | Stromstärke (Ampere) 
+Werkstückdicke (mm) | Stromstärke (Ampere) 
 :------:|:------:
 1,0|30 
 2,0|60 
@@ -14,7 +14,7 @@ Werkstückdicke (mm)` ` | Stromstärke (Ampere)
 
 ## Edelstahl (DC):
 
-Werkstückdicke (mm)` ` | Stromstärke (Ampere) 
+Werkstückdicke (mm) | Stromstärke (Ampere) 
 :------:|:------:
 1,0|25 
 2,0|50 
@@ -23,7 +23,7 @@ Werkstückdicke (mm)` ` | Stromstärke (Ampere)
 5,0|125
 
 ## Aluminium (AC):
-Werkstückdicke (mm)` ` | Stromstärke (Ampere) 
+Werkstückdicke (mm) | Stromstärke (Ampere) 
 :------:|:------:
 1,0|40 
 2,0|80 
